@@ -1,0 +1,8 @@
+C:\Users\Elif Taş\source\repos\denemeler1\bin\Debug\denemeler1.exe.config
+C:\Users\Elif Taş\source\repos\denemeler1\bin\Debug\denemeler1.exe
+C:\Users\Elif Taş\source\repos\denemeler1\bin\Debug\denemeler1.pdb
+C:\Users\Elif Taş\source\repos\denemeler1\obj\Debug\denemeler1.csproj.AssemblyReference.cache
+C:\Users\Elif Taş\source\repos\denemeler1\obj\Debug\denemeler1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elif Taş\source\repos\denemeler1\obj\Debug\denemeler1.csproj.CoreCompileInputs.cache
+C:\Users\Elif Taş\source\repos\denemeler1\obj\Debug\denemeler1.exe
+C:\Users\Elif Taş\source\repos\denemeler1\obj\Debug\denemeler1.pdb
